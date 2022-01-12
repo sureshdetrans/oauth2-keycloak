@@ -13,7 +13,7 @@ This package provides Keycloak OAuth 2.0 support for the PHP League's [OAuth 2.0
 To install, use composer:
 
 ```
-composer require stevenmaguire/oauth2-keycloak
+composer require sureshdetrans/oauth2-keycloak
 ```
 
 ## Usage
